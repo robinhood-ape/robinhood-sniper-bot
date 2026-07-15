@@ -242,4 +242,3 @@ export function createClients(): Clients {
 
   return { publicClient, walletClient, account };
 }
- 
