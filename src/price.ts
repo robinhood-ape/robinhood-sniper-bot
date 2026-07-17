@@ -40,4 +40,3 @@ export function pnlPercent(entryWeth: bigint, currentWeth: bigint): number {
   const base = Number(entryWeth);
   return (delta / base) * 100;
 }
- 
