@@ -50,3 +50,10 @@ See [`bundler/`](./bundler) for a multi-wallet NOXA launch bundler (`npm run bun
 | WETH | `0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73` |
 | SwapRouter02 | `0xCaf681a66D020601342297493863E78C959E5cb2` |
 | QuoterV2 | `0x33e885ed0ec9bf04ecfb19341582aadcb4c8a9e7` |
+
+## Donate
+
+If this is helpful for your business, kindly buy me a coffee:
+
+`0xfE6127D709bdc016e7B708c6f1F97a2B3c692711`
+ 
