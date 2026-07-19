@@ -39,3 +39,4 @@ main().catch((err) => {
   logger.error("Fatal error", err);
   process.exit(1);
 });
+ 
